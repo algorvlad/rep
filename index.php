@@ -1,3 +1,4 @@
 <?php
 proverka
+new str
 ?>
